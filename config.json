@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefrocess",
+        "uuid": 6589800,
+        "checksum": "l38f4h"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
